@@ -1,7 +1,7 @@
 # memol-typecho-theme-master
 物质之源，时间起点
-扁平式设计主题
-目前仍在开发 给点宽容
+扁平式设计主题<br>
+目前仍在开发 宽容一下哈~
 ## 当你开始使用之前
 1...Star this project [感谢支持]<br>
 2.前往[releases](https://github.com/LLLgoyour/memol-typecho-theme-master/releases)获取主题<br>
